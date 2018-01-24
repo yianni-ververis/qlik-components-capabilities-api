@@ -8,7 +8,7 @@
 [![Angular](http://img.shields.io/badge/Angular-5.1.0-brightgreen.svg?style=plastic)]()
 [![React](http://img.shields.io/badge/React-16.2-brightgreen.svg?style=plastic)]()
 
-# Npm package to use for React (>16) and Angular (>5)
+# Npm package to use in a React (>16) and Angular (>5) mashup through the Capabilities API
 
 
 ## Usage
